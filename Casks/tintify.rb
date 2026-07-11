@@ -1,6 +1,6 @@
 cask "tintify" do
-  version "1.9.5"
-  sha256 "6ad7ea1b8a4befaeb2bd0ed62dd1b1535d425cb852997430b1c1fae4f0889abd"
+  version "1.10.0"
+  sha256 "5afa17bcc060671c8d750d6af559f653823a6de41cb50ae65c62aa93b2b44f70"
 
   url "https://github.com/notwin/Tintify/releases/download/v#{version}/Tintify-#{version}.dmg"
   name "Tintify"
